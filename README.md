@@ -6,7 +6,7 @@ I am a Full Stack Developer, Blockchain Developer, AI Expert.
 
 ☀️ Mobile App: React Native, Android Java, C#
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+🚀 Database: PostgreSQL, MySQL, MongoDB, Neo4j, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
 
 💥 Others: D3.js, ChartJS, React-hook-form, tanstack, Three.js, PixiJS PhaserJS, RESTful, Apollo GraphQL, Hasura, tRPC, Adobe XD, Adobe PhotoShop, Adobe After Effects
 
