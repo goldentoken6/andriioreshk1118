@@ -286,7 +286,6 @@ Thanks a lot in advance!
 </p> -->
 
 ## ⚡ Status
-
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/cedev935?tab=achievements">
