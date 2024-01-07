@@ -14,7 +14,7 @@ I am a Full Stack Developer, Blockchain Developer, AI Expert.
 
 💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
 
-★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Rust, Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
 
 Thanks a lot in advance!
 ## 💫 My🌟BEST🌟 SKILLS
