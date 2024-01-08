@@ -1,5 +1,10 @@
 I am a Full Stack Developer, Blockchain Developer, AI Expert.
 
+As a full stack developer, I have experience working with various programming languages such as JavaScript, Python, and Ruby, and am proficient in both front-end and back-end web development. I have also worked with various frameworks such as React, Angular, and Django, and am skilled in database management using SQL and NoSQL databases.
+Additionally, I have experience deploying applications to the cloud using AWS and Azure. 
+
+As a blockchain developer, I have developed decentralized applications (dApps) using Solidity and have worked with various blockchain protocols such as Ethereum and Hyperledger. I am also familiar with cryptocurrency development and have experience working with Bitcoin and other cryptocurrencies. I have developed blockchain-based solutions for various industries, including finance, healthcare, and supply chain management.
+
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence
@@ -15,6 +20,7 @@ I am a Full Stack Developer, Blockchain Developer, AI Expert.
 💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
 
 ★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Rust, Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+
 
 Thanks a lot in advance!
 ## 💫 My🌟BEST🌟 SKILLS
